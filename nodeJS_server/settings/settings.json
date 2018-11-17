@@ -1,0 +1,24 @@
+{
+    "port": 3000,
+    "db": {
+        "sql": {
+            "database": "dataservicev2",
+            "dbUser": "root",
+            "dbUserPassword": "",
+            "dbPort": "3306",
+            "sequelizeParamSetting": {
+                "host": "localhost",
+                "dialect": "mysql"
+            }
+        }
+    },
+    "security": {
+        "salt": "Eno4fna$01",
+        "roles": [
+            "Administrator"
+        ]
+    },
+    "cache": {
+        "ttl": 30000
+    }
+}
