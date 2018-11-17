@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EasySoldes</string>
+
+    <!-- Account and Login Activity -->
+    <string name="easy_solde">EASY SOLDE</string>
+    <string name="update_account">Modifier</string>
+    <string name="account">Compte</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="birthdate">Date de naissance</string>
+    <string name="connection">Connexion</string>
+    <string name="account_updated">Compte mis à jour</string>
+
+    <!-- Search Activity -->
+    <string name="shoes">Chaussures</string>
+    <string name="clothes">Vêtements</string>
+
+    <!-- Details Activity -->
+    <string name="tri">Tri</string>
+    <string name="distance">Distance</string>
+    <string name="z_a">Z-A</string>
+    <string name="a_z">A-Z</string>
+    <string name="nb_personnes">Nombre de personnes</string>
+    <string name="radius">Rayon</string>
+
+</resources>
