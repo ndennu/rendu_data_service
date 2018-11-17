@@ -32,6 +32,7 @@
     npm install
 ```
 
+- Modifier le "dbUser" et "dbUserPassword" du fichier nodeJS_server/settings/settings.json pour les faire correspondre à ceux utilisés dans phpMyadmin
 - Une fois l'installation terminé éxécuté:
 
 ```
